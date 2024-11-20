@@ -1,4 +1,4 @@
-raft [![Build Status](https://github.com/hashicorp/raft/workflows/ci/badge.svg)](https://github.com/hashicorp/raft/actions)
+raft 
 ====
 
 raft is a [Go](http://www.golang.org) library that manages a replicated
