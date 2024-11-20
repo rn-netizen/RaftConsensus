@@ -19,3 +19,7 @@ Please check your installation with:
 ```
 go version
 ```
+
+## Commiting
+
+To commit any changes, you'll need to do it on another branch. Please contact me if you want any changes or updates to this.
